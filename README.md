@@ -4,7 +4,7 @@
 
 This GitHub repository houses a project focused on gathering data from Spotify's new releases using the Spotify API. The primary aim is to extract specific details such as album names, artist names, release dates, and the number of tracks. Once the data is collected, a thorough cleaning process is implemented to ensure its accuracy and consistency. Subsequently, the cleaned data is stored in a MySQL database, creating an organized structure for convenient storage and retrieval. This project serves as a practical example of data scraping and integration, offering insights into the latest music releases from the Spotify platform. 
 
-![dataETL]([https://github.com/houda-moudni/Spotify-NewReleases-ETL-/blob/main/Spotify-ETL/Yellow%20and%20Orange%20Monthly%20Sales%20Data%20Graph.png])
+![dataETL]([https://github.com/houda-moudni/Spotify-NewReleases-ETL/blob/main/Spotify-ETL/Spotify_ETL.png])
 
 ## *Key Features:*
 
